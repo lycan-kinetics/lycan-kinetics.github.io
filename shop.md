@@ -6,12 +6,6 @@ title: Shop
 
 # Shop Our Products
 
-Welcome to our online shop. Browse our selection of premium products below.
+Our direct supply shop will be up soon, but until then please visit us on one of our marketplace distributors:
 
-*(Note: This is a static placeholder. A functional e-commerce store would require a more complex setup or integration with a third-party service.)*
-
-## Product A
-Description of Product A. Price: $XX.XX
-
-## Product B
-Description of Product B. Price: $YY.YY
+- links to ammo supply shops here
